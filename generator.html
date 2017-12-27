@@ -1,0 +1,37 @@
+ <html lang="hu">
+ 	<head>
+        <meta charset="UTF-8">
+ 		<title>Fonya vizsgagenerátor</title>
+        <style>
+            .questionDiv {
+                padding-bottom: 5px;
+                display: inline;
+            }
+
+            .cursor {
+                cursor: pointer;
+            }
+
+            .title {
+                text-align: center;
+            }
+
+        </style>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
+ 	</head>
+ 	<body>
+        <h4 class="title">Fonya kiskérdések</h4>
+        <div id="questions">
+        </div>
+
+        <script type="text/javascript" src="./load-questions.js"></script>
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+        </script>
+        <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+        </script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    </body>
+ </html>

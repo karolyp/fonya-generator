@@ -1,0 +1,516 @@
+[
+	{
+		"id": 1,
+		"text": "Sorolja fel az $aba$ szó prefixeit!",
+		"answer": "$\\epsilon, a, ab, aba$"
+	},
+	{
+		"id": 2,
+		"text": "Adja meg formulával az $L_1L_2$ nyelvet, ahol $L_1=\\{a, ab \\}$ és $L_2=\\{\\epsilon, b\\}$.",
+		"answer": "Igen"
+	},
+	{
+		"id": 3,
+		"text": "Adja meg formulával az $L_1L_2$ nyelvet, ahol $L_1 = \\{ a^n \\mid n \\geq 0 \\}$ és $L_2 = \\{ b^n \\mid n \\geq 0 \\}$!",
+		"answer": "Igen"
+	},
+	{
+		"id": 4,
+		"text": "Igaz-e tetszőleges $L_1, L_2$ nyelvekre, hogy $L_1L_2 = L_2L_1$? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+		{
+		"id": 5,
+		"text": "Adjon szükséges és elegendő feltételt arra, hogy $L_1L_2 = \\emptyset$!",
+		"answer": "Igen"
+	},
+	{
+		"id": 6,
+		"text": "Van-e olyan $L$ nyelv, melyre $L^{*} = \\emptyset$? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 7,
+		"text": "Adjon szükséges és elegendő feltételt arra, hogy $L^{*}$ véges!",
+		"answer": "Igen"
+	},
+	{
+		"id": 8,
+		"text": "Van-e olyan végtelen $L$ nyelv, melyre $L^{+} = L^{*}$? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+    	"id": 9,
+    	"text": "Van-e olyan L nyelv, melyre melyre $\\epsilon \\not\\in L$ és $L^{+} = L^{*}$? Válaszát indokolja!",
+  		"answer": "Igen"
+	},
+	{
+		"id": 10,
+		"text": "Melyek a nyelvekre vonatkozó reguláris műveletek és melyek a Boole műveletek?",
+		"answer": "Igen"
+	},
+	{
+		"id": 11,
+		"text": "Definiálja a $G = \\left( N, \\Sigma, P, S \\right)$ generatív nyelvtanban $P$-t!",
+		"answer": "Igen"
+	},
+	{
+		"id": 12,
+		"text": "Adja meg a $G = \\left( N, \\Sigma, P, S \\right)$ nyelvtan közvetlen levezetési relációjának definícióját!",
+		"answer": "Igen"
+	},
+	{
+		"id": 13,
+		"text": "Adja meg az aritmetikai kifejezést generáló $G_{ar}$ nyelvtant és az $a\\ast\\left(a+a\\right)$ szó egy leveztését!",
+		"answer": "Igen"
+	},
+	{
+		"id": 14,
+		"text": "Ismertesse a generatív nyelvtanok esetén alkalmazott jelölésbeni megállapodást!",
+		"answer": "Igen"
+	},
+	{
+		"id": 15,
+		"text": "Az 1-típusú (környezetfüggő) nyelvtan definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 16,
+		"text": "A 3-típusú (reguláris) nyelvtan definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 17,
+		"text": "Igaz-e, hogy minden 2-típusú nyelvtan 1-típusú is? Válaszát indokolja a megfelelő nyelvtanok definícióval! (A tartalmazási diagram nem indoklás.)",
+		"answer": "Igen"
+	},
+	{
+		"id": 18,
+		"text": "Igaz-e, hogy minden 3-típusú nyelvtan 2-típusú is? Válaszát indokolja a megfelelő nyelvtanok definícióval! (A tartalmazási diagram nem indoklás.)",
+		"answer": "Igen"
+	},
+	{
+		"id": 19,
+		"text": "A determiniszikus automata definíciója (csak a szintaxis).",
+		"answer": "Igen"
+	},
+	{
+		"id": 20,
+		"text": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ determinisztikus automata konfigurációinak definíciója és egy adott konfiguráció jelentése.",
+		"answer": "Igen"
+	},
+	{
+		"id": 21,
+		"text": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automata $\\vdash_M$ átmeneti relációjának definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 22,
+		"text": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automatával ekvivalens determinisztikus automata a $Q'$ állapot-halmazának és $\\delta'$ átmenet-függvényének definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 23,
+		"text": "Legfeljebb hány állapota van egy $n$ állapotú nemdeterminisztikus automatával ekvivalens determinisztikus automatának? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 24,
+		"text": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automatával ekvivalens teljesen definiált automata definíciója. Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 25,
+		"text": "Legfeljebb hány állapota van egy n állapotú nemdeterminisztikus automatával ekvivalens teljesen definiált automatának? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 26,
+		"text": "A minimális automata definíciója",
+		"answer": "Igen"
+	},
+	{
+		"id": 27,
+		"text": "A $\\equiv$ reláció definíciója és három tulajdonsága.",
+		"answer": "Igen"
+	},
+	{
+		"id": 28,
+		"text": "A $\\equiv$ kongruencia kiszámításnak algoritmusa.",
+		"answer": "Igen"
+	},
+	{
+		"id": 29,
+		"text": "A reguláris kifejezés és az általa meghatározott nyelv definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 30,
+		"text": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{ a, b, c \\}$ feletti szavakból áll, melyek hossza legalább egy.",
+		"answer": "Igen"
+	},
+	{
+		"id": 31,
+		"text": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{  a, b \\}$ feletti szavakból áll, melyek hossza legalább $3$ és jobbról a második betű $b$.",
+		"answer": "Igen"
+	},
+	{
+		"id": 32,
+		"text": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{ a, b \\}$ feletti szavakból áll, melyek hossza páratlan szám.",
+		"answer": "Igen"
+	},
+	{
+		"id": 33,
+		"text": "Igaz-e, hogy minden véges nyelv reguláris? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 34,
+		"text": "Adja meg az $L_1L_2$ nyelvet generáló reguláris nyelvtant, ha $L_i = L(G_i)$ a $G_i = (N_i, \\Sigma, P_i, S_i)$ reguláris nyelvtanra $(i = 1, 2)$!",
+		"answer": "Igen"
+	},
+	{
+		"id": 35,
+		"text": "Adja meg az $L^{*}$ nyelvet generáló reguláris nyelvtant, ha $L = L(G)$ a $G = (N, \\Sigma, P, S)$ reguláris nyelvtanra!",
+		"answer": "Igen"
+	},
+	{
+		"id": 36,
+		"text": "A $G = (N, \\Sigma, P, S)$ reguláris nyelvtan minden szabálya $A \\to aB$ vagy $A \\to \\epsilon$ alakú. Adja meg az $L(G)$-t felismerő automata definícióját!",
+		"answer": "Igen"
+	},
+	{
+		"id": 37,
+		"text": "Hogyan írható fel a Kleene tétel bizonyításában $L(M)$ az $L^{(k)}_{i,j}$ nyelvek segítségével?",
+		"answer": "Igen"
+	},
+	{
+		"id": 38,
+		"text": "A Kleene tétel bizonyításában szereplő $L^{(k)}_{i,j}$ nyelv definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 39,
+		"text": "A Kleene tétel bizonyításában szereplő $L^{(k)}_{i,j}$ nyelv alakja a $k = 0$ esetben.",
+		"answer": "Igen"
+	},
+	{
+		"id": 40,
+		"text": "A reguláris nyelvekre vonatkozó pumpáló lemma.",
+		"answer": "Igen"
+	},
+	{
+		"id": 41,
+		"text": "Alkalmas-e a reguláris nyelvekre vonatkozó pumpáló lemma annak igazolására, hogy egy nyelv 3 típusú? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 42,
+		"text": "Adjon meg olyan $L$ környezetfüggetlen nyelvet, amelyik nem $3$ típusú! Milyen eszközzel bizonyítaná, hogy $L$ nem reguláris?",
+		"answer": "Igen"
+	},
+	{
+		"id": 43,
+		"text": "Zártak-e a reguláris nyelvek a konkatenációra? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 44,
+		"text": "Zártak-e a reguláris nyelvek az iterációra? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 45,
+		"text": "Az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzata átmenetfüggvényének definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 46,
+		"text": "Hogyan kell megadni az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzatának végállapot-halmazát ahhoz, hogy a direkt szorzat az $L \\left( M_1 \\right) \\cup \\left( M_2 \\right)$ nyelvet ismerje fel?",
+		"answer": "Igen"
+	},
+	{
+		"id": 47,
+		"text": "Hogyan kell megadni az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzatának végállapot-halmazát ahhoz, hogy a direkt szorzat az $L \\left( M_1 \\right) \\setminus \\left( M_2 \\right)$ nyelvet ismerje fel?",
+		"answer": "Igen"
+	},
+	{
+		"id": 48,
+		"text": "Zártak-e a reguláris nyelvek a metszetre? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 49,
+		"text": "Zártak-e a reguláris nyelvek a komplementer kézpésre? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 50,
+		"text": "Igaz-e, hogy ha egy $L$ nyelv reguláris, akkor minden $L' \\subseteq L$ is reguláris? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 51,
+		"text": "Igaz-e, hogy ha egy $L_1 \\cup L_2$ reguláris, akkor mind $L_1$, mind $L_2$ reguláris? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 52,
+		"text": "Létezik-e olyan algoritmus, amely tetszőleges reguláris nyelvről eldönti, hogy üres-e? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 53,
+		"text": "Létezik-e olyan algoritmus, amely tetszőleges reguláris nyelvről eldönti, hogy végtelen-e? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 54,
+		"text": "Létezik-e olyan algoritmus, amely tetszőleges $L_1$ és $L_2$ reguláris nyelvekről eldönti, hogy $L_1 \\subseteq L_2$ teljesül-e? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 55,
+		"text": "A bal oldali leveztés definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 56,
+		"text": "Megadható-e olyan $A \\Rightarrow^{*} \\omega$ (környezetfüggetlen) levezetés, amelyre nem teljesül, hogy $A \\Rightarrow^{*}_l \\omega$? Válaszát indokolja!",
+		"answer": "Igen"
+	},
+	{
+		"id": 57,
+		"text": "Adja meg az $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fák $D_x$ halmazának definícióját!",
+		"answer": "Igen"
+	},
+	{
+		"id": 58,
+		"text": "Mi az  $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fák $D_x$ halmaza, ha $X \\in \\Sigma$?",
+		"answer": "Igen"
+	},
+	{
+		"id": 59,
+		"text": "Az $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fa határának definíciója.",
+		"answer": "Igen"
+	},
+	{
+		"id": 60,
+		"text": "Adja meg a $G$ környezetfüggetlen nyelvtan által generált nyelvet a derivációs fák és azok határa segítségével!",
+		"answer": "Igen"
+	},
+	{
+		"id": 61,
+		"text": "Labore duis sint officia laborum do in tempor labore.",
+		"answer": "Igen"
+	},
+	{
+		"id": 62,
+		"text": "Veniam qui dolore anim aliqua esse enim officia aliqua Lorem fugiat officia nulla proident aliquip.",
+		"answer": "Igen"
+	},
+	{
+		"id": 63,
+		"text": "Nulla consectetur enim quis exercitation culpa dolor cillum id labore nostrud.",
+		"answer": "Igen"
+	},
+	{
+		"id": 64,
+		"text": "Tempor commodo et aute enim ipsum cupidatat.",
+		"answer": "Igen"
+	},
+	{
+		"id": 65,
+		"text": "Tempor laborum consequat do sit esse commodo enim occaecat ea.",
+		"answer": "Igen"
+	},
+	{
+		"id": 66,
+		"text": "Ipsum ad laboris irure exercitation commodo laboris.",
+		"answer": "Igen"
+	},
+	{
+		"id": 67,
+		"text": "Qui ullamco exercitation minim enim nostrud anim laborum tempor elit eu quis dolore.",
+		"answer": "Igen"
+	},
+	{
+		"id": 68,
+		"text": "Lorem aliquip duis sunt velit est non deserunt proident eiusmod aliquip Lorem aliquip exercitation.",
+		"answer": "Igen"
+	},
+	{
+		"id": 69,
+		"text": "Do occaecat eiusmod esse ad exercitation in proident.",
+		"answer": "Igen"
+	},
+	{
+		"id": 70,
+		"text": "Dolor adipisicing in ea consectetur incididunt sit enim ea do.",
+		"answer": "Igen"
+	},
+	{
+		"id": 71,
+		"text": "Voluptate veniam nostrud Lorem mollit esse id consectetur.",
+		"answer": "Igen"
+	},
+	{
+		"id": 72,
+		"text": "Aliqua dolor ex sit culpa nisi ut exercitation.",
+		"answer": "Igen"
+	},
+	{
+		"id": 73,
+		"text": "Tempor Lorem Lorem laboris aute ut incididunt occaecat minim sit aliquip et.",
+		"answer": "Igen"
+	},
+	{
+		"id": 74,
+		"text": "Tempor aliqua et est ex mollit consequat laboris nulla magna est adipisicing.",
+		"answer": "Igen"
+	},
+	{
+		"id": 75,
+		"text": "Mollit sit labore exercitation incididunt excepteur in esse ut labore pariatur nostrud aliquip enim fugiat.",
+		"answer": "Igen"
+	},
+	{
+		"id": 76,
+		"text": "Enim esse incididunt cillum voluptate sunt.",
+		"answer": "Igen"
+	},
+	{
+		"id": 77,
+		"text": "Veniam fugiat qui irure elit.",
+		"answer": "Igen"
+	},
+	{
+		"id": 78,
+		"text": "Ad reprehenderit voluptate elit esse dolore sit pariatur ipsum duis quis pariatur non.",
+		"answer": "Igen"
+	},
+	{
+		"id": 79,
+		"text": "Sunt aliqua nulla magna incididunt anim tempor officia laborum nisi sunt ut nulla.",
+		"answer": "Igen"
+	},
+	{
+		"id": 80,
+		"text": "Minim dolore tempor nostrud aliqua aute dolor dolore consectetur amet cillum irure proident.",
+		"answer": "Igen"
+	},
+	{
+		"id": 81,
+		"text": "Amet nulla velit labore aliquip proident consectetur aliqua ipsum veniam sunt proident laborum.",
+		"answer": "Igen"
+	},
+	{
+		"id": 82,
+		"text": "Culpa occaecat amet sint nostrud.",
+		"answer": "Igen"
+	},
+	{
+		"id": 83,
+		"text": "Reprehenderit sit exercitation elit minim proident nulla deserunt duis do consectetur voluptate.",
+		"answer": "Igen"
+	},
+	{
+		"id": 84,
+		"text": "Reprehenderit ullamco fugiat aute consequat ad magna.",
+		"answer": "Igen"
+	},
+	{
+		"id": 85,
+		"text": "Consequat est ut do ipsum nisi eu irure officia.",
+		"answer": "Igen"
+	},
+	{
+		"id": 86,
+		"text": "Dolor commodo irure irure in veniam ad exercitation minim dolor est ullamco.",
+		"answer": "Igen"
+	},
+	{
+		"id": 87,
+		"text": "Fugiat id aute nisi proident eiusmod dolor proident id magna mollit labore duis fugiat.",
+		"answer": "Igen"
+	},
+	{
+		"id": 88,
+		"text": "In esse laborum elit sit deserunt mollit quis exercitation deserunt duis fugiat.",
+		"answer": "Igen"
+	},
+	{
+		"id": 89,
+		"text": "Anim non irure magna amet mollit ullamco tempor anim tempor nulla.",
+		"answer": "Igen"
+	},
+	{
+		"id": 90,
+		"text": "Ut consequat mollit reprehenderit adipisicing minim dolor deserunt culpa.",
+		"answer": "Igen"
+	},
+	{
+		"id": 91,
+		"text": "Officia ut quis labore do voluptate id.",
+		"answer": "Igen"
+	},
+	{
+		"id": 92,
+		"text": "Aliqua Lorem non sit amet culpa mollit elit incididunt duis do fugiat adipisicing aliqua duis.",
+		"answer": "Igen"
+	},
+	{
+		"id": 93,
+		"text": "Cillum velit cupidatat est sit ad elit.",
+		"answer": "Igen"
+	},
+	{
+		"id": 94,
+		"text": "Duis commodo et excepteur deserunt sit laborum ullamco adipisicing esse cillum adipisicing duis.",
+		"answer": "Igen"
+	},
+	{
+		"id": 95,
+		"text": "Irure ullamco esse pariatur ex elit proident Lorem id quis ipsum consequat et.",
+		"answer": "Igen"
+	},
+	{
+		"id": 96,
+		"text": "Incididunt ad ullamco occaecat culpa minim amet nulla ullamco eiusmod commodo.",
+		"answer": "Igen"
+	},
+	{
+		"id": 97,
+		"text": "Nostrud nisi ut reprehenderit ullamco laboris magna aliquip nostrud.",
+		"answer": "Igen"
+	},
+	{
+		"id": 98,
+		"text": "Proident in esse enim magna ut voluptate fugiat incididunt dolor pariatur adipisicing ea.",
+		"answer": "Igen"
+	},
+	{
+		"id": 99,
+		"text": "Elit qui elit laboris cupidatat aute ut.",
+		"answer": "Igen"
+	},
+	{
+		"id": 100,
+		"text": "Do proident ea labore excepteur nulla voluptate occaecat tempor dolore excepteur.",
+		"answer": "Igen"
+	},
+	{
+		"id": 101,
+		"text": "Veniam ex anim esse sunt laborum non officia Lorem dolor labore est proident.",
+		"answer": "Igen"
+	},
+	{
+		"id": 102,
+		"text": "Enim laborum aliquip qui ea.",
+		"answer": "Igen"
+	},
+	{
+		"id": 103,
+		"text": "Laborum enim officia proident sit ipsum adipisicing ullamco officia fugiat mollit."
+	}
+]
