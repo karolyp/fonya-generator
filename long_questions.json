@@ -1,0 +1,102 @@
+[
+   {
+      "id":1,
+      "question":"Generatív nyelvtan definíciója, levezetés, a nyelvtan által generált nyelv fogalma. Jelölések, a Chomsky nyelvtan- és nyelvosztályok tartalmazási digramjai."
+   },
+   {
+      "id":2,
+      "question":"Véges automata fogalma, felismert nyelv, a nemdeterminisztikus és a determinisztikus automaták ekvivalenciája."
+   },
+   {
+      "id":3,
+      "question":"A nemdeterminisztikus és az $\\epsilon$-átmenetes nemdeterminisztikus automaták ekvivalenciája."
+   },
+   {
+      "id":4,
+      "question":"Automaták minimalzálása (definíció, $\\equiv$ definíciója és tulajdonságai, a minimális automata megadása, $\\equiv$ kiszámítása.)"
+   },
+   {
+      "id":5,
+      "question":"Nyelvek megadása reguláris kifejezéssel. A reguláris kifejezéssel reprezentálható nyelvek 3 típusúak."
+   },
+   {
+      "id":6,
+      "question":"A 3 típusú nyelvek felismerhetők automatával."
+   },
+   {
+      "id":7,
+      "question":"Az automatával felismerhető nyelvek reprezentálhatók reguláris kifejezéssel (Kleene tétele)."
+   },
+   {
+      "id":8,
+      "question":"A pumpáló lemma reguláris nyelvekre és következményei."
+   },
+   {
+      "id":9,
+      "question":"A reguláris nyelvek zártsági tulajdonságai (reguláris műveletek, Boole műveletek), automaták direkt szorzata."
+   },
+   {
+      "id":10,
+      "question":"Eldöntési kérdések reguláris nyelvekre."
+   },
+   {
+      "id":11,
+      "question":"Környezetfüggetlen nyelvtanok levezetési módjai (általános, bal- és jobb oldali) és ezek kapcsolata."
+   },
+   {
+      "id":12,
+      "question":"A derivációs fa fogalma, levezetések és derivációs fák közötti kapcsolatok."
+   },
+   {
+      "id":13,
+      "question":"Egyértelmű nyelvtanok és nyelvek."
+   },
+   {
+      "id":14,
+      "question":"A fölösleges szimbólumok elhagyása (definíciók és algoritmusok)."
+   },
+   {
+      "id":15,
+      "question":"Környezetfüggetlen nyelvtanok $\\epsilon$-mentesítése (definíció és algoritmus)."
+   },
+   {
+      "id":16,
+      "question":"Környezetfüggetlen nyelvtanok Chomky-normálalakra hozása (definíció és algoritmus)."
+   },
+   {
+      "id":17,
+      "question":"Veremautomata fogalma, felismerés végállapottal és üres veremmel, ezek ekvivalenciája."
+   },
+   {
+      "id":18,
+      "question":"A környezetfüggetlen nyelvek felismerhetők veremautomatával."
+   },
+   {
+      "id":19,
+      "question":"A veremautomatákkal felismerhető nyelvek környezetfüggetlenek."
+   },
+   {
+      "id":20,
+      "question":"A pumpáló lemma környezetfüggetlen nyelvekre (Bar-Hillel lemma) és következményei."
+   },
+   {
+      "id":21,
+      "question":"A környezetfüggetlen nyelvek zártsági tulajdonságai (reguláris müveletek, Boole műveletek, reguláris nyelvvel való metszet)."
+   },
+   {
+      "id":22,
+      "question":"Eldöntési kérdések környezetfüggetlen nyelvekre."
+   },
+   {
+      "id":23,
+      "question":"A Turing gép és az általa felismert nyelv fogalma."
+   },
+   {
+      "id":24,
+      "question":"A $k$-szavas és a nemdeterminisztikus Turing gép."
+   },
+   {
+      "id":25,
+      "question":"Az általános (0-típusú) nyelvek és a Turing gépek ekvivalenciája."
+   }
+]

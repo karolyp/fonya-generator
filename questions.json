@@ -1,516 +1,532 @@
 [
 	{
 		"id": 1,
-		"text": "Sorolja fel az $aba$ szó prefixeit!",
+		"question": "Sorolja fel az $aba$ szó prefixeit!",
 		"answer": "$\\epsilon, a, ab, aba$"
 	},
 	{
 		"id": 2,
-		"text": "Adja meg formulával az $L_1L_2$ nyelvet, ahol $L_1=\\{a, ab \\}$ és $L_2=\\{\\epsilon, b\\}$.",
-		"answer": "Igen"
+		"question": "Adja meg formulával az $L_1L_2$ nyelvet, ahol $L_1=\\{a, ab \\}$ és $L_2=\\{\\epsilon, b\\}$.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 3,
-		"text": "Adja meg formulával az $L_1L_2$ nyelvet, ahol $L_1 = \\{ a^n \\mid n \\geq 0 \\}$ és $L_2 = \\{ b^n \\mid n \\geq 0 \\}$!",
-		"answer": "Igen"
+		"question": "Adja meg formulával az $L_1L_2$ nyelvet, ahol $L_1 = \\{ a^n \\mid n \\geq 0 \\}$ és $L_2 = \\{ b^n \\mid n \\geq 0 \\}$!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 4,
-		"text": "Igaz-e tetszőleges $L_1, L_2$ nyelvekre, hogy $L_1L_2 = L_2L_1$? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Igaz-e tetszőleges $L_1, L_2$ nyelvekre, hogy $L_1L_2 = L_2L_1$? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 		{
 		"id": 5,
-		"text": "Adjon szükséges és elegendő feltételt arra, hogy $L_1L_2 = \\emptyset$!",
-		"answer": "Igen"
+		"question": "Adjon szükséges és elegendő feltételt arra, hogy $L_1L_2 = \\emptyset$!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 6,
-		"text": "Van-e olyan $L$ nyelv, melyre $L^{*} = \\emptyset$? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Van-e olyan $L$ nyelv, melyre $L^{*} = \\emptyset$? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 7,
-		"text": "Adjon szükséges és elegendő feltételt arra, hogy $L^{*}$ véges!",
-		"answer": "Igen"
+		"question": "Adjon szükséges és elegendő feltételt arra, hogy $L^{*}$ véges!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 8,
-		"text": "Van-e olyan végtelen $L$ nyelv, melyre $L^{+} = L^{*}$? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Van-e olyan végtelen $L$ nyelv, melyre $L^{+} = L^{*}$? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
     	"id": 9,
-    	"text": "Van-e olyan L nyelv, melyre melyre $\\epsilon \\not\\in L$ és $L^{+} = L^{*}$? Válaszát indokolja!",
-  		"answer": "Igen"
+    	"question": "Van-e olyan $L$ nyelv, melyre $\\epsilon \\not\\in L$ és $L^{+} = L^{*}$? Válaszát indokolja!",
+  		"answer": "$N/A$"
 	},
 	{
 		"id": 10,
-		"text": "Melyek a nyelvekre vonatkozó reguláris műveletek és melyek a Boole műveletek?",
-		"answer": "Igen"
+		"question": "Melyek a nyelvekre vonatkozó reguláris műveletek és melyek a Boole műveletek?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 11,
-		"text": "Definiálja a $G = \\left( N, \\Sigma, P, S \\right)$ generatív nyelvtanban $P$-t!",
-		"answer": "Igen"
+		"question": "Definiálja a $G = \\left( N, \\Sigma, P, S \\right)$ generatív nyelvtanban $P$-t!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 12,
-		"text": "Adja meg a $G = \\left( N, \\Sigma, P, S \\right)$ nyelvtan közvetlen levezetési relációjának definícióját!",
-		"answer": "Igen"
+		"question": "Adja meg a $G = \\left( N, \\Sigma, P, S \\right)$ nyelvtan közvetlen levezetési relációjának definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 13,
-		"text": "Adja meg az aritmetikai kifejezést generáló $G_{ar}$ nyelvtant és az $a\\ast\\left(a+a\\right)$ szó egy leveztését!",
-		"answer": "Igen"
+		"question": "Adja meg az aritmetikai kifejezést generáló $G_{ar}$ nyelvtant és az $a\\ast\\left(a+a\\right)$ szó egy leveztését!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 14,
-		"text": "Ismertesse a generatív nyelvtanok esetén alkalmazott jelölésbeni megállapodást!",
-		"answer": "Igen"
+		"question": "Ismertesse a generatív nyelvtanok esetén alkalmazott jelölésbeni megállapodást!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 15,
-		"text": "Az 1-típusú (környezetfüggő) nyelvtan definíciója.",
-		"answer": "Igen"
+		"question": "Az 1-típusú (környezetfüggő) nyelvtan definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 16,
-		"text": "A 3-típusú (reguláris) nyelvtan definíciója.",
-		"answer": "Igen"
+		"question": "A 3-típusú (reguláris) nyelvtan definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 17,
-		"text": "Igaz-e, hogy minden 2-típusú nyelvtan 1-típusú is? Válaszát indokolja a megfelelő nyelvtanok definícióval! (A tartalmazási diagram nem indoklás.)",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy minden 2-típusú nyelvtan 1-típusú is? Válaszát indokolja a megfelelő nyelvtanok definícióval! (A tartalmazási diagram nem indoklás.)",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 18,
-		"text": "Igaz-e, hogy minden 3-típusú nyelvtan 2-típusú is? Válaszát indokolja a megfelelő nyelvtanok definícióval! (A tartalmazási diagram nem indoklás.)",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy minden 3-típusú nyelvtan 2-típusú is? Válaszát indokolja a megfelelő nyelvtanok definícióval! (A tartalmazási diagram nem indoklás.)",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 19,
-		"text": "A determiniszikus automata definíciója (csak a szintaxis).",
-		"answer": "Igen"
+		"question": "A determiniszikus automata definíciója (csak a szintaxis).",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 20,
-		"text": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ determinisztikus automata konfigurációinak definíciója és egy adott konfiguráció jelentése.",
-		"answer": "Igen"
+		"question": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ determinisztikus automata konfigurációinak definíciója és egy adott konfiguráció jelentése.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 21,
-		"text": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automata $\\vdash_M$ átmeneti relációjának definíciója.",
-		"answer": "Igen"
+		"question": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automata $\\vdash_M$ átmeneti relációjának definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 22,
-		"text": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automatával ekvivalens determinisztikus automata a $Q'$ állapot-halmazának és $\\delta'$ átmenet-függvényének definíciója.",
-		"answer": "Igen"
+		"question": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automatával ekvivalens determinisztikus automata a $Q'$ állapot-halmazának és $\\delta'$ átmenet-függvényének definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 23,
-		"text": "Legfeljebb hány állapota van egy $n$ állapotú nemdeterminisztikus automatával ekvivalens determinisztikus automatának? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Legfeljebb hány állapota van egy $n$ állapotú nemdeterminisztikus automatával ekvivalens determinisztikus automatának? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 24,
-		"text": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automatával ekvivalens teljesen definiált automata definíciója. Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Az $M=\\left( Q, \\Sigma, \\delta, q_0, F\\right)$ nemdeterminisztikus automatával ekvivalens teljesen definiált automata definíciója. Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 25,
-		"text": "Legfeljebb hány állapota van egy n állapotú nemdeterminisztikus automatával ekvivalens teljesen definiált automatának? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Legfeljebb hány állapota van egy n állapotú nemdeterminisztikus automatával ekvivalens teljesen definiált automatának? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 26,
-		"text": "A minimális automata definíciója",
-		"answer": "Igen"
+		"question": "A minimális automata definíciója",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 27,
-		"text": "A $\\equiv$ reláció definíciója és három tulajdonsága.",
-		"answer": "Igen"
+		"question": "A $\\equiv$ reláció definíciója és három tulajdonsága.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 28,
-		"text": "A $\\equiv$ kongruencia kiszámításnak algoritmusa.",
-		"answer": "Igen"
+		"question": "A $\\equiv$ kongruencia kiszámításnak algoritmusa.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 29,
-		"text": "A reguláris kifejezés és az általa meghatározott nyelv definíciója.",
-		"answer": "Igen"
+		"question": "A reguláris kifejezés és az általa meghatározott nyelv definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 30,
-		"text": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{ a, b, c \\}$ feletti szavakból áll, melyek hossza legalább egy.",
-		"answer": "Igen"
+		"question": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{ a, b, c \\}$ feletti szavakból áll, melyek hossza legalább egy.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 31,
-		"text": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{  a, b \\}$ feletti szavakból áll, melyek hossza legalább $3$ és jobbról a második betű $b$.",
-		"answer": "Igen"
+		"question": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{  a, b \\}$ feletti szavakból áll, melyek hossza legalább $3$ és jobbról a második betű $b$.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 32,
-		"text": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{ a, b \\}$ feletti szavakból áll, melyek hossza páratlan szám.",
-		"answer": "Igen"
+		"question": "Adja meg reguláris kifejezéssel a következő nyelvet: azon $\\{ a, b \\}$ feletti szavakból áll, melyek hossza páratlan szám.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 33,
-		"text": "Igaz-e, hogy minden véges nyelv reguláris? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy minden véges nyelv reguláris? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 34,
-		"text": "Adja meg az $L_1L_2$ nyelvet generáló reguláris nyelvtant, ha $L_i = L(G_i)$ a $G_i = (N_i, \\Sigma, P_i, S_i)$ reguláris nyelvtanra $(i = 1, 2)$!",
-		"answer": "Igen"
+		"question": "Adja meg az $L_1L_2$ nyelvet generáló reguláris nyelvtant, ha $L_i = L(G_i)$ a $G_i = (N_i, \\Sigma, P_i, S_i)$ reguláris nyelvtanra $(i = 1, 2)$!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 35,
-		"text": "Adja meg az $L^{*}$ nyelvet generáló reguláris nyelvtant, ha $L = L(G)$ a $G = (N, \\Sigma, P, S)$ reguláris nyelvtanra!",
-		"answer": "Igen"
+		"question": "Adja meg az $L^{*}$ nyelvet generáló reguláris nyelvtant, ha $L = L(G)$ a $G = (N, \\Sigma, P, S)$ reguláris nyelvtanra!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 36,
-		"text": "A $G = (N, \\Sigma, P, S)$ reguláris nyelvtan minden szabálya $A \\to aB$ vagy $A \\to \\epsilon$ alakú. Adja meg az $L(G)$-t felismerő automata definícióját!",
-		"answer": "Igen"
+		"question": "A $G = (N, \\Sigma, P, S)$ reguláris nyelvtan minden szabálya $A \\to aB$ vagy $A \\to \\epsilon$ alakú. Adja meg az $L(G)$-t felismerő automata definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 37,
-		"text": "Hogyan írható fel a Kleene tétel bizonyításában $L(M)$ az $L^{(k)}_{i,j}$ nyelvek segítségével?",
-		"answer": "Igen"
+		"question": "Hogyan írható fel a Kleene tétel bizonyításában $L(M)$ az $L^{(k)}_{i,j}$ nyelvek segítségével?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 38,
-		"text": "A Kleene tétel bizonyításában szereplő $L^{(k)}_{i,j}$ nyelv definíciója.",
-		"answer": "Igen"
+		"question": "A Kleene tétel bizonyításában szereplő $L^{(k)}_{i,j}$ nyelv definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 39,
-		"text": "A Kleene tétel bizonyításában szereplő $L^{(k)}_{i,j}$ nyelv alakja a $k = 0$ esetben.",
-		"answer": "Igen"
+		"question": "A Kleene tétel bizonyításában szereplő $L^{(k)}_{i,j}$ nyelv alakja a $k = 0$ esetben.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 40,
-		"text": "A reguláris nyelvekre vonatkozó pumpáló lemma.",
-		"answer": "Igen"
+		"question": "A reguláris nyelvekre vonatkozó pumpáló lemma.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 41,
-		"text": "Alkalmas-e a reguláris nyelvekre vonatkozó pumpáló lemma annak igazolására, hogy egy nyelv 3 típusú? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Alkalmas-e a reguláris nyelvekre vonatkozó pumpáló lemma annak igazolására, hogy egy nyelv 3 típusú? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 42,
-		"text": "Adjon meg olyan $L$ környezetfüggetlen nyelvet, amelyik nem $3$ típusú! Milyen eszközzel bizonyítaná, hogy $L$ nem reguláris?",
-		"answer": "Igen"
+		"question": "Adjon meg olyan $L$ környezetfüggetlen nyelvet, amelyik nem $3$ típusú! Milyen eszközzel bizonyítaná, hogy $L$ nem reguláris?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 43,
-		"text": "Zártak-e a reguláris nyelvek a konkatenációra? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Zártak-e a reguláris nyelvek a konkatenációra? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 44,
-		"text": "Zártak-e a reguláris nyelvek az iterációra? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Zártak-e a reguláris nyelvek az iterációra? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 45,
-		"text": "Az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzata átmenetfüggvényének definíciója.",
-		"answer": "Igen"
+		"question": "Az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzata átmenetfüggvényének definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 46,
-		"text": "Hogyan kell megadni az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzatának végállapot-halmazát ahhoz, hogy a direkt szorzat az $L \\left( M_1 \\right) \\cup \\left( M_2 \\right)$ nyelvet ismerje fel?",
-		"answer": "Igen"
+		"question": "Hogyan kell megadni az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzatának végállapot-halmazát ahhoz, hogy a direkt szorzat az $L \\left( M_1 \\right) \\cup \\left( M_2 \\right)$ nyelvet ismerje fel?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 47,
-		"text": "Hogyan kell megadni az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzatának végállapot-halmazát ahhoz, hogy a direkt szorzat az $L \\left( M_1 \\right) \\setminus \\left( M_2 \\right)$ nyelvet ismerje fel?",
-		"answer": "Igen"
+		"question": "Hogyan kell megadni az $M_i = \\left( Q_i, \\Sigma, \\delta_i, q_i, F_i\\right) \\left( i = 1, 2\\right)$ determinisztikus automaták direkt szorzatának végállapot-halmazát ahhoz, hogy a direkt szorzat az $L \\left( M_1 \\right) \\setminus \\left( M_2 \\right)$ nyelvet ismerje fel?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 48,
-		"text": "Zártak-e a reguláris nyelvek a metszetre? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Zártak-e a reguláris nyelvek a metszetre? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 49,
-		"text": "Zártak-e a reguláris nyelvek a komplementer kézpésre? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Zártak-e a reguláris nyelvek a komplementer kézpésre? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 50,
-		"text": "Igaz-e, hogy ha egy $L$ nyelv reguláris, akkor minden $L' \\subseteq L$ is reguláris? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy ha egy $L$ nyelv reguláris, akkor minden $L' \\subseteq L$ is reguláris? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 51,
-		"text": "Igaz-e, hogy ha egy $L_1 \\cup L_2$ reguláris, akkor mind $L_1$, mind $L_2$ reguláris? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy ha egy $L_1 \\cup L_2$ reguláris, akkor mind $L_1$, mind $L_2$ reguláris? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 52,
-		"text": "Létezik-e olyan algoritmus, amely tetszőleges reguláris nyelvről eldönti, hogy üres-e? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Létezik-e olyan algoritmus, amely tetszőleges reguláris nyelvről eldönti, hogy üres-e? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 53,
-		"text": "Létezik-e olyan algoritmus, amely tetszőleges reguláris nyelvről eldönti, hogy végtelen-e? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Létezik-e olyan algoritmus, amely tetszőleges reguláris nyelvről eldönti, hogy végtelen-e? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 54,
-		"text": "Létezik-e olyan algoritmus, amely tetszőleges $L_1$ és $L_2$ reguláris nyelvekről eldönti, hogy $L_1 \\subseteq L_2$ teljesül-e? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Létezik-e olyan algoritmus, amely tetszőleges $L_1$ és $L_2$ reguláris nyelvekről eldönti, hogy $L_1 \\subseteq L_2$ teljesül-e? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 55,
-		"text": "A bal oldali leveztés definíciója.",
-		"answer": "Igen"
+		"question": "A bal oldali leveztés definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 56,
-		"text": "Megadható-e olyan $A \\Rightarrow^{*} \\omega$ (környezetfüggetlen) levezetés, amelyre nem teljesül, hogy $A \\Rightarrow^{*}_l \\omega$? Válaszát indokolja!",
-		"answer": "Igen"
+		"question": "Megadható-e olyan $A \\Rightarrow^{*} \\omega$ (környezetfüggetlen) levezetés, amelyre nem teljesül, hogy $A \\Rightarrow^{*}_l \\omega$? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 57,
-		"text": "Adja meg az $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fák $D_x$ halmazának definícióját!",
-		"answer": "Igen"
+		"question": "Adja meg az $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fák $D_x$ halmazának definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 58,
-		"text": "Mi az  $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fák $D_x$ halmaza, ha $X \\in \\Sigma$?",
-		"answer": "Igen"
+		"question": "Mi az  $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fák $D_x$ halmaza, ha $X \\in \\Sigma$?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 59,
-		"text": "Az $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fa határának definíciója.",
-		"answer": "Igen"
+		"question": "Az $X \\in \\left( N \\cup \\Sigma \\right)$ gyökerű derivációs fa határának definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 60,
-		"text": "Adja meg a $G$ környezetfüggetlen nyelvtan által generált nyelvet a derivációs fák és azok határa segítségével!",
-		"answer": "Igen"
+		"question": "Adja meg a $G$ környezetfüggetlen nyelvtan által generált nyelvet a derivációs fák és azok határa segítségével!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 61,
-		"text": "Labore duis sint officia laborum do in tempor labore.",
-		"answer": "Igen"
+		"question": "Az egyértelmű (környezetfüggetlen) nyelvtan definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 62,
-		"text": "Veniam qui dolore anim aliqua esse enim officia aliqua Lorem fugiat officia nulla proident aliquip.",
-		"answer": "Igen"
+		"question": "Adjon példát nem egyértelmű nyelvtanra!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 63,
-		"text": "Nulla consectetur enim quis exercitation culpa dolor cillum id labore nostrud.",
-		"answer": "Igen"
+		"question": "Az egyértelmű (környezetfüggetlen) nyelv definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 64,
-		"text": "Tempor commodo et aute enim ipsum cupidatat.",
-		"answer": "Igen"
+		"question": "Adjon példát nem egyértelmű nyelvre!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 65,
-		"text": "Tempor laborum consequat do sit esse commodo enim occaecat ea.",
-		"answer": "Igen"
+		"question": "A használható szimbólum definíciója (környezetfüggetlen nyelvtanban).",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 66,
-		"text": "Ipsum ad laboris irure exercitation commodo laboris.",
-		"answer": "Igen"
+		"question": "A produktív nemterminális definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 67,
-		"text": "Qui ullamco exercitation minim enim nostrud anim laborum tempor elit eu quis dolore.",
-		"answer": "Igen"
+		"question": "Az elérhető szimbólum definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 68,
-		"text": "Lorem aliquip duis sunt velit est non deserunt proident eiusmod aliquip Lorem aliquip exercitation.",
-		"answer": "Igen"
+		"question": "A $\\epsilon$-mentes (környezetfüggetlen) nyelvtan definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 69,
-		"text": "Do occaecat eiusmod esse ad exercitation in proident.",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy minden $\\epsilon$-mentes 2-típusú nyelvtan 1-típusú is? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 70,
-		"text": "Dolor adipisicing in ea consectetur incididunt sit enim ea do.",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy minden 2-típusú nyelv 1-típusú is? Válaszát indokolja! (A tartalmazási diagram nem indoklás.)",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 71,
-		"text": "Voluptate veniam nostrud Lorem mollit esse id consectetur.",
-		"answer": "Igen"
+		"question": "A Chomsky-normálforma definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 72,
-		"text": "Aliqua dolor ex sit culpa nisi ut exercitation.",
-		"answer": "Igen"
+		"question": "A veremautomata definíciója (csak a szintaxis).",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 73,
-		"text": "Tempor Lorem Lorem laboris aute ut incididunt occaecat minim sit aliquip et.",
-		"answer": "Igen"
+		"question": "A $P = (Q, \\Sigma, \\Gamma, \\delta, q_0, Z_0, F)$ veremautomata $\\vdash_P$ átmeneti relációjának definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 74,
-		"text": "Tempor aliqua et est ex mollit consequat laboris nulla magna est adipisicing.",
-		"answer": "Igen"
+		"question": "A veremautomata által végállapotokkal felismert nyelv definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 75,
-		"text": "Mollit sit labore exercitation incididunt excepteur in esse ut labore pariatur nostrud aliquip enim fugiat.",
-		"answer": "Igen"
+		"question": "A veremautomata által üres veremmel felismert nyelv definíciója.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 76,
-		"text": "Enim esse incididunt cillum voluptate sunt.",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy bármely $P$ veremautomata esetén $L_f\\left(P\\right)=L_\\emptyset\\left(P\\right)$ Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 77,
-		"text": "Veniam fugiat qui irure elit.",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy minden veremautomata ekvivalens egy üres veremmel felismerő egyállapotú veremautomatával? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 78,
-		"text": "Ad reprehenderit voluptate elit esse dolore sit pariatur ipsum duis quis pariatur non.",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy minden környezetfüggetlen nyelv felismerhető egy legfeljebb három állapotú veremautomatával végállapotokkal? Válaszát ",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 79,
-		"text": "Sunt aliqua nulla magna incididunt anim tempor officia laborum nisi sunt ut nulla.",
-		"answer": "Igen"
+		"question": "A determinisztikus veremautomata definíciója (csak a szintaxis).",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 80,
-		"text": "Minim dolore tempor nostrud aliqua aute dolor dolore consectetur amet cillum irure proident.",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy bármely véges nyelv felismerhető determinisztikus veremautomatával üres veremmel? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 81,
-		"text": "Amet nulla velit labore aliquip proident consectetur aliqua ipsum veniam sunt proident laborum.",
-		"answer": "Igen"
+		"question": "Adja meg a reguláris nyelvek, a determinisztikus nyelvek és a környezetfüggetlen nyelvek egymáshoz való viszonyát!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 82,
-		"text": "Culpa occaecat amet sint nostrud.",
-		"answer": "Igen"
+		"question": "A környezetfüggetlen nyelvekre vonatkozó pumpáló lemma.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 83,
-		"text": "Reprehenderit sit exercitation elit minim proident nulla deserunt duis do consectetur voluptate.",
-		"answer": "Igen"
+		"question": "Adjon meg olyan $L$ környezetfüggő nyelvet, amelyik nem környezetfüggetlen! Milyen eszközzel bizonyítaná, hogy $L$ nem környezetfüggetlen?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 84,
-		"text": "Reprehenderit ullamco fugiat aute consequat ad magna.",
-		"answer": "Igen"
+		"question": "Adja meg az $L^*$ nyelvet generáló környezetfüggetlen nyelvtant, ha $L = L \\left(G\\right)$ a $G=\\left(N, \\Sigma, P, S\\right)$ környezetfüggetlen nyelvtanra!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 85,
-		"text": "Consequat est ut do ipsum nisi eu irure officia.",
-		"answer": "Igen"
+		"question": "Zártak-e a környezetfüggetlen nyelvek a metszetre? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 86,
-		"text": "Dolor commodo irure irure in veniam ad exercitation minim dolor est ullamco.",
-		"answer": "Igen"
+		"question": "Zártak-e a környezetfüggetlen nyelvek a komplementer képzésre? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 87,
-		"text": "Fugiat id aute nisi proident eiusmod dolor proident id magna mollit labore duis fugiat.",
-		"answer": "Igen"
+		"question": "Adjon meg olyan műveletet, amelyre a környezetfüggetlen nyelvek nem zártak, de a determinisztikus környezetfüggetlen nyelvek zártak.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 88,
-		"text": "In esse laborum elit sit deserunt mollit quis exercitation deserunt duis fugiat.",
-		"answer": "Igen"
+		"question": "Adjon meg olyan műveleteket, amelyekre a determinisztikus környezetfüggetlen nyelvek nem zártak, de a környezetfüggetlen nyelvek zártak.",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 89,
-		"text": "Anim non irure magna amet mollit ullamco tempor anim tempor nulla.",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy minden $L$ környezetfüggetlen nyelvhez van olyan $k$ szám, hogy $L$ akkor és csak akkor nem üres, ha tartalmaz legfeljebb $k$ hosszúságú szót? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 90,
-		"text": "Ut consequat mollit reprehenderit adipisicing minim dolor deserunt culpa.",
-		"answer": "Igen"
+		"question": "Adjon meg olyan, környezetfüggetlen nyelvekre vonatkozó kérdéseket, amelyek nem dönthetők el algoritmikusan!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 91,
-		"text": "Officia ut quis labore do voluptate id.",
-		"answer": "Igen"
+		"question": "A Turing gép definíciója (csak a szintaxis)!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 92,
-		"text": "Aliqua Lorem non sit amet culpa mollit elit incididunt duis do fugiat adipisicing aliqua duis.",
-		"answer": "Igen"
+		"question": "Milyen feltétel mellett teljesül egy $M = \\left(Q, \\Sigma, \\Gamma, q_0, \\delta, F\\right)$ Turing gépben a $\\rhd \\alpha p a \\beta \\vdash \\rhd \\alpha q b \\beta$ átmenet?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 93,
-		"text": "Cillum velit cupidatat est sit ad elit.",
-		"answer": "Igen"
+		"question": "Milyen feltétel mellett teljesül egy $M = \\left(Q, \\Sigma, \\Gamma, q_0, \\delta, F\\right)$ Turing gépben a $\\rhd \\alpha p a \\beta \\vdash \\rhd \\alpha b q \\beta$ átmenet?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 94,
-		"text": "Duis commodo et excepteur deserunt sit laborum ullamco adipisicing esse cillum adipisicing duis.",
-		"answer": "Igen"
+		"question": "Milyen feltétel mellett teljesül egy $M = \\left(Q, \\Sigma, \\Gamma, q_0, \\delta, F\\right)$ Turing gépben a $\\rhd\\alpha p a \\vdash \\rhd\\alpha b q B$ átmenet?",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 95,
-		"text": "Irure ullamco esse pariatur ex elit proident Lorem id quis ipsum consequat et.",
-		"answer": "Igen"
+		"question": "Igaz-e, hogy a Turing gép minden olyan konfigurációjára van rákövetkező, amelyik nem végkonfiguráció? Válaszát indokolja!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 96,
-		"text": "Incididunt ad ullamco occaecat culpa minim amet nulla ullamco eiusmod commodo.",
-		"answer": "Igen"
+		"question": "Adja meg az $M = \\left(Q, \\Sigma, \\Gamma, q_0, \\delta, F\\right)$ Turing gép konfigurációjának definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 97,
-		"text": "Nostrud nisi ut reprehenderit ullamco laboris magna aliquip nostrud.",
-		"answer": "Igen"
+		"question": "Adja meg az $M = \\left(Q, \\Sigma, \\Gamma, q_0, \\delta, F\\right)$ Turing gép kezdő és végkonfigurációjának definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 98,
-		"text": "Proident in esse enim magna ut voluptate fugiat incididunt dolor pariatur adipisicing ea.",
-		"answer": "Igen"
+		"question": "Adja meg az $M = \\left(Q, \\Sigma, \\Gamma, q_0, \\delta, F\\right)$ Turing géppel felismert nyelv definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 99,
-		"text": "Elit qui elit laboris cupidatat aute ut.",
-		"answer": "Igen"
+		"question": "Adja meg a rekurzívan felsorolható nyelv definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 100,
-		"text": "Do proident ea labore excepteur nulla voluptate occaecat tempor dolore excepteur.",
-		"answer": "Igen"
+		"question": "Adja meg a rekurzív nyelv definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 101,
-		"text": "Veniam ex anim esse sunt laborum non officia Lorem dolor labore est proident.",
-		"answer": "Igen"
+		"question": "Adja meg az $M = \\left(Q, \\Sigma, \\Gamma, q_0, \\delta, F\\right)$ $k$-szavas Turing gép konfigurációjának definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 102,
-		"text": "Enim laborum aliquip qui ea.",
-		"answer": "Igen"
+		"question": "Adja meg az $M = \\left(Q, \\Sigma, \\Gamma, q_0, \\delta, F\\right)$ $k$-szavas Turing géppel felismert nyelv definícióját!",
+		"answer": "$N/A$"
 	},
 	{
 		"id": 103,
-		"text": "Laborum enim officia proident sit ipsum adipisicing ullamco officia fugiat mollit."
+		"question": "A Turing gépekkel felismerhető és a $k$-szavas Turing gépekkel felismerhető nyelvek osztályaira vonatkozó tétel.",
+		"answer": "$N/A$"
+	},
+	{
+		"id": 104,
+		"question":"Adja meg a nemdeterminisztikus Turing gép átmenetfüggvényét!", 
+		"answer" : "$N/A$"
+	},
+	{
+		"id": 105,
+		"question":"A Turing gépekkel felismerhető és a nemdeterminisztikus Turing gépekkel felismerhető nyelvek osztályaira vonatkozó tétel.", 
+		"answer" : "$N/A$"
+	},
+	{
+		"id": 106,
+		"question":"Hogyan viszonyul egymáshoz a 0-típusú nyelvek osztálya és a $k$-szavas Turing gépekkel felismert nyelvek osztálya? Válaszát röviden indokolja!", 
+		"answer" : "$N/A$"
 	}
 ]
